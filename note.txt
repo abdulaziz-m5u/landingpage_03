@@ -1,0 +1,67 @@
+### colors
+
+- primary color = #141414
+- secondary color = #F2F2F2
+- text color = #F2F2F2
+- accent color = #F2F2F2
+
+### font family
+
+- Poppins
+
+### hero section
+- New in
+- YEEZY BOOST SPLY - 350​
+- Explore the new collections of sneakers
+
+### featured section
+*
+- Nike Jordan​
+- $149.99​
+- Buy Now​
+*
+- Nike Free RN​
+- $149.99​
+- Buy Now​
+*
+- Nike Jordan
+- $149.99​
+- Buy Now​
+
+### banner section
+- Nike​/Adidas​
+- New collection 2024
+- Buy Now​
+
+### women sneakers section
+*
+- Nike Freen TR​
+- $149.99​
+- Buy Now​
+*
+- Nike Freen Orange
+- $149.99​
+- Buy Now​
+* 
+- Nike GS Pink​
+- $149.99​
+- Buy Now​
+* 
+- Nike GS Purple​
+- $149.99​
+- Buy Now​
+
+### banner section 2
+- 50% OFF​
+- In Adidas Superstar sneakers
+- Shop Now​
+
+### collection section
+- NEW COLLECTION​
+- Mens Shoes​
+- From $79.99
+- View Collection​
+
+### banner section 3
+- Shop Now And Get 10% OFF​
+- Get 10% discount for all products
